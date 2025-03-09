@@ -1,0 +1,9 @@
+setuptools~=75.8.0
+torch~=2.6.0+cu124
+bio~=1.7.1
+biopython~=1.85
+matplotlib~=3.10.1
+numpy~=2.1.2
+einops~=0.8.1
+ml-collections~=1.0.0
+pandas~=2.2.3
